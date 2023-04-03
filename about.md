@@ -8,9 +8,11 @@ Mi nombre es Samuel Solís, soy Ingeniero Informático y me gusta contar cosas. 
 
 ### Mi trabajo
 
-Trabajo desarrollando proyectos web utilizando, normalmente, [Drupal](https://es.wikipedia.org/wiki/Drupal). Llevo en esto desde 2009 por lo que tengo bastantes tiros pegados ya y cierta experiencia que ha modelado mi forma de hacer las cosas. 
+Trabajo desarrollando proyectos web utilizando, normalmente, [Drupal](https://es.wikipedia.org/wiki/Drupal). Llevo en esto desde 2009 por lo que tengo bastantes tiros pegados ya y cierta experiencia que ha modelado mi forma de hacer las cosas. No obstante veo Drupal como una herramienta, por lo que cuando haya que usar otra... pues se usará.
 
-Ahora mismo estoy trabajando junto con Everis en proyectos de la Comisión Europea. Allí tienen muchos portales webs hechos con Drupal y nos nuestro trabajo es proporcionarles herramientas para que los webmasters tengan la mayor flexibilidad posible y que la tecnología no sea limitante. La verdad es que es un proyectazo que estoy disfrutando mucho.
+Acaba de terminar mi experiencia como manager/tech lead en Openbank, por primera vez había dejado de ser un desarrollador como tal y... bueno, echadle un ojo al blog si queréis más info. :P
+
+El trabajo que tenía antes de ir a la banca era en la Comisión Europea. Allí tienen muchos portales webs hechos con Drupal y nos nuestro trabajo era proporcionarles herramientas para que los webmasters tengan la mayor flexibilidad posible y que la tecnología no sea limitante. La verdad es que fue un proyectazo que disfruté mucho.
 
 Anteriormente a esto pasé (casi) 4 maravillosos años en [Bodeboca](https://www.bodeboca.com), una enorme tienda online principalmente de vino. Allí aprendí lo difcil que es vender por Internet y el trabajo que lleva conseguir un sitio que compita, de verdad, con Amazon y demás. A Bodeboca la compró Pernod Ricard por lo que pude vivir también los nervios de un proceso de compra de startUp, que siempre es algo que me llamó la atención. Dira que es un movidote. También descubrí la importancia de la palabra EQUIPO y lo importante que es tenerlo unido. No sé si volveré a tener un grupo tan bueno en mi trabajo.
 
