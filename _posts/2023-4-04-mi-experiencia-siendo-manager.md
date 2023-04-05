@@ -12,12 +12,12 @@ Intentaré recalcar los puntos que más me han chocado o que creo que tienen má
 
 _Disclaimer:_
 
-_Todo esto está basado en mi experiencia personal. Limitada, centrada en una sola empresa y de unas características concretas, no significa que todo sea así siempre y en todos sitios. Pero para eso es mi blog personal y el New York Times ^^_
+_Todo esto está basado en mi experiencia personal. Limitada, centrada en una sola empresa y de unas características concretas, no significa que todo sea así siempre y en todos sitios. Pero para eso es mi blog personal y el no New York Times ^^_
 
 Eres una amenaza
 ================
 
-Si tienes la suerte de llegar a un equipo ya formado como fue mi caso, es muy posible que te encuentres con cierto rechazo. Y es lógico, no lo digo a malas. Llegas con un rol de lead que ahora mismo lo estará haciendo otra u otras personas (de forma explícita o implícita), por lo que te perciben como una amenaza y al principio se puede generar cierta tensión. O al menos yo lo viví así. Toca demostrar.
+Si tienes la suerte de llegar a un equipo ya formado como fue mi caso, es muy posible que te encuentres con cierto rechazo. Y es lógico, no lo digo a malas. Llegas con un rol de liderazgo que antes lo estaba haciendo otra u otras personas (de forma explícita o implícita), por lo que te perciben como una amenaza y al principio se puede generar cierta tensión. O al menos yo lo viví así. Toca demostrar.
 
 Creo que conseguí lidiar con esto bastante bien.
 
@@ -32,7 +32,7 @@ Creo que conseguí lidiar con esto bastante bien.
 Tus problemas serán los problemas de otros
 ==========================================
 
-Una de mis tareas principales ha sido facilitar la vida a los demás. Intentar que sean lo más productivos posible. Desatascar tickets, mover árboles para que sucedan cosas, escuchar lloros de vez en cuando, tocar los procesos y darles vueltas para ver si mejoraba el feeling del equipo... resolver problemas. Pero no los problemas que estaba acostumbrado a resolver. No problemas técnicos sino generalmente problemas humanos. Y los problemas humanos ni tienen test ni están documentados (vale, los técnicos tampoco 😛, pero esa es otra historia). Además, rara vez puedes apañarse con un parche rápido para abordarlos con tiempo un poco después.
+Una de mis tareas principales ha sido facilitar la vida a los demás. Intentar que sean lo más productivos posible. Desatascar tickets, mover árboles para que sucedan cosas, escuchar lloros de vez en cuando, tocar los procesos y darles vueltas para ver si mejoraba el feeling del equipo... resolver problemas. Pero no los problemas que estaba acostumbrado a resolver. No problemas técnicos sino generalmente problemas humanos. Y los problemas humanos ni tienen test ni están documentados (vale, los técnicos tampoco 😛, pero esa es otra historia). Además, rara vez puedes apañarse con un parche rápido para abordarlos con tiempo un poco después. En definitiva, son una movida.
 
 Se acabó la recompensa rápida
 =============================
@@ -44,14 +44,14 @@ En puestos con esta carga de gestión esto desaparece. No hay endorfina semanal 
 Concentrarse en una tarea concreta es muy complicado
 ====================================================
 
-Cuando estás en el ojo de todos los huracanes siempre hay alguien que te requiere para algo. Por mucho que te bloquees parte de la agenda creando reuniones ficticias (lo he hecho, por supuesto), te pongas el top ten de Heavy neerlandés y cierres la persiana, de una forma u otra alguien da contigo porque tiene una duda que no puede esperar. O algo se ha roto irremediablemente y aunque tú no puedes o sabes arreglarlo, seguro que conoces al que sí puede hacerlo. Es tu trabajo, además, perder el foco para que no lo pierdan otros.
+Cuando estás en el ojo de todos los huracanes siempre hay alguien que te requiere para algo. Por mucho que te bloquees parte de la agenda creando reuniones ficticias (lo he hecho, por supuesto), te pongas el top ten de Heavy neerlandés y cierres la persiana, de una forma u otra alguien da contigo porque tiene una duda que no puede esperar. O algo se ha roto irremediablemente y aunque tú no puedes o sabes arreglarlo, seguro que conoces al que sí puede hacerlo. Es tu trabajo, además, *perder el foco para que no lo pierdan otros*.
 
 Vives reunido (y es una mierda)
 ===============================
 
 Aunque seas el último mono (a nivel gestión) tienes el calendario de un ministro. A las reuniones con el equipo y las ceremonias habituales en los que se simula que se hace SCRUM, se unen las sesiones con el resto de managers donde cada uno tiene su película, y ninguna es de Disney.
 
-En tal departamento tienen un bug que te impacta, en otro un nuevo requerimiento que necesitan algo de tu lado o eres tú mismo el que convoca a otro manager porque esta vez eres tú el que necesita desbloquear algo que no puedes hacerlo por ti mismo. Y normalmente el problema no se soluciona en la primera llamada, sino que se necesitan varias pues, tras conocer el problema, hay que estudiarlo, consultar a las personas que tienen la información y volver a buscar un hueco en la agenda ministerial para darlo por cerrado.
+En tal departamento tienen un bug que te impacta, en otro un nuevo requerimiento que necesitan algo de tu lado... o eres tú mismo el que convoca a otro manager porque esta vez eres tú el que necesita desbloquear algo que no puedes hacerlo por ti mismo. Y normalmente el problema no se soluciona en la primera llamada, sino que se necesitan varias pues, tras conocer el problema, hay que estudiarlo, consultar a las personas que tienen la información y volver a buscar un hueco en la agenda ministerial para darlo por cerrado.
 
 Los cascos echan humo y las cabezas también. Me falta experiencia en el corporate para valorar cómo de endémico son este tipo de situaciones, pero los comentarios que me llegan de colegas del sector es que ni mucho menos es algo que haya pasado sólo en la empresa en la que trabajé.
 
@@ -67,7 +67,7 @@ Comunicar bien es difícil
 
 A lo largo de la jornada te comunicas con muchísima gente. Tu equipo más cercano, los departamentos habituales con los que interactúas, personas de departamentos que te contactan por lo que sea, stakeholders aleatorios que vienen y van... mucha gente. Y es difícil. Y para mi lo ha sido y eso que soy muy extrovertido y tengo bastantes tablas en lo que a comunicación se refiere.
 
-Además, muchas veces toca comunicarse con personas de distintos países, con otras culturas y/o diferente idioma nativo. Lo que pone una barrera más que saltar. Al final todo lo que no se dice de forma explícita se rellena con lo que para mi es normal, y eso varía mucho cuanto más alejado culturalmente estás de alguien. Poner mucho esfuerzo en intentar comunicar bien, de forma clara y completa es algo imprescindible en cualquier trabajo, pero este caso aún mucho más si cabe.
+Además, muchas veces hay que comunicarse con personas de distintos países, con otras culturas y/o diferente idioma nativo. Lo que pone una barrera más que saltar. Al final todo lo que no se dice de forma explícita se rellena con lo que para mi es normal, y eso varía mucho cuanto más alejado culturalmente estás de alguien. Poner mucho esfuerzo en intentar comunicar bien, de forma clara y completa es algo imprescindible en cualquier trabajo, pero este caso aún mucho más si cabe.
 
 Dudar está penalizado
 =====================
@@ -77,6 +77,11 @@ Y para mi es una mierda, porque dudo constantemente de las cosas. Certezas en es
 Pero es cierto que dudar en este contexto es un problema demasiadas veces. La gente te localiza buscando certezas, y no puedes estar sembrando dudas constantemente y condicionando las respuestas porque entonces eres una figura completamente inútil. Y más de una vez te toca decidir con información insuficiente para desbloquear un atasco... y cruzar los dedos y esperar que hayas acertado. O, si no lo has hecho, pues asumir que te equivocaste y cargar con ello.
 
 Si os sirve de consuelo, acabas cogiendo destreza en ese tipo de decisiones y la experiencia y el feeling hace que cada vez sea más sencillo trabajar en ese contexto de incertidumbre y aciertas la mayoría de las veces; pero a mi al principio me costaba horrores.
+
+Siempre hay algo de política
+============================
+
+Al final en las empresas grandes (y esto lo viví también en la Comisión Europea) hay cierto politiqueo. Y yo odio el politiqueo. No me gusta que las decisiones se tomen para agradar a los jefes, o para salvar parte del culo de tu departamento o para que no te señalen. Y pasa. Joder, que si pasa. Y cuanto más carga de gestión tiene el puesto más implicado estás en este juego de poderes y de egos. Y tienes que jugar. Como digo muchas veces, nosotros no inventamos las reglas de la vida. Ignorarlas porque no te gustan solo te hace jugar a perder, y cambiarlas, lamentablemente, no está en tu mano.
 
 -----
 
