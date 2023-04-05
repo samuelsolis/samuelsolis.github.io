@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mi experiencia siendo manager
-date: 2023-04-05 00:00:00
+date: 2023-04-05 08:00:00
 ---
 
 Pues tras dos años y medio aproximadamente ha terminado mi aventura en Openbank, y con ella mi incursión en una empresa grande y, además, mi periplo (al menos de momento) en un puesto con una carga extraordinariamente alta de gestión.
