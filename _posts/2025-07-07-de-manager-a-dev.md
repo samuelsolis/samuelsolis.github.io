@@ -95,8 +95,8 @@ entendibles para cualquiera y sin dar lugar a equívocos.
 
 Por otro lado, fuera del drama de la crisis también es importante comunicar de forma **temprana** y de forma **proactiva**. 
 Esto quiere decir que es clave levantar la mano cuando creas que dispones de información relevante para los demás y hacerlo
-lo antes posible. Si no llegas a una entrega o si vas a acabar mucho antes de tiempo (y por tanto necesitarás otra tarea),
-si ves un bug que hay que resolver que nadie a reportado, o si localizas una posible amenaza que pueda hacer que todo 
+lo antes posible. Si no llegas a una entrega o si vas a acabar mucho antes de tiempo (y, por tanto, necesitarás otra tarea),
+si ves un bug que hay que resolver que nadie ha reportado, o si localizas una posible amenaza que pueda hacer que todo 
 salte por los aires.
 
 ## Localizar el origen del dolor
