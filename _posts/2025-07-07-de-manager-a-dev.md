@@ -52,7 +52,8 @@ Entender la importancia de agarrar las cosas y hacerlas tuyas. **Ser el responsa
 Como IC _hacerlas tuyas_ implica **resolver** mucho más de lo que resolvías como manager (donde parte del rol implica perseguir a la gente)
 así que es un poco más fácil. Depende de ti pero, al menos, _solo_ de ti*.
 
-*Sí, esto es otra simplificación. Por favor, no me toméis al pie de la letra.
+
+_*Sí, esto es otra simplificación. Por favor, no me toméis al pie de la letra._
 
 ## Se puede liderar desde el código
 Hay jefes y hay líderes. Esto lo sabemos y hay libros enteros hablando de esto. Pero al igual que estás acostumbrado
@@ -60,17 +61,17 @@ a tener ese ownership, estás acostumbrado a liderar equipos. Y se puede liderar
 siendo una referencia, siendo el que da la cara cuando hace falta, etc. Aportando no solo a tu parcela codificada.
 
 Creo que pasar por esa etapa más de gestión me dio confianza para poder abordar este liderazgo cuando hace falta sin
-ningún problema ni trauma. O así lo sentí.
+ningún problema ni trauma. Que siempre hubo un poco, pero ahora, pues un poco más.
 
 
-# Cosas que me he aprendido
+# Cosas que he aprendido
 
-O más que cosas que he aprendido, quizá mejor se puede interpretar como cosas que he aprendido que son clave. Es decir,
+O más que cosas que he aprendido, quizá mejor se puede interpretar como cosas que he aprendido **que son clave**. Es decir,
 darle a estas habilidades, características o como queráis llamarlo el valor que se merecen; porque son la diferencia
-entre ser un buen desarrollador o ser uno de un valor realmente alto.
+entre ser un desarrollador normalito o ser uno de un valor realmente alto.
 
 Y creo, además, que en una etapa como la que nos encontramos donde la IA va a paliar parte de las carencias técnicas 
-que puede tener un desarrollador (pues es una ayuda bestial en ese respecto) son si cabe más importantes.
+que puede tener un desarrollador (es una ayuda bestial en ese respecto) son si cabe más importantes.
 
 ## Comunicar de forma efectiva, clara, temprana y proactiva.
 
