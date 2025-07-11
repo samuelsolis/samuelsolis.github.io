@@ -15,7 +15,7 @@ Vamos a ello.
 
 *Lo sé, hay matices en esta afirmación. Pero es mi blog y generalizo como quiero.
 
-# Cosas que sentido
+# Lo que he sentido
 
 ## ¿Es un paso hacia atrás?
 **Salarialmente está claro.** Y no solo/tanto en mi caso. El nivel de impacto de un desarrollador normalmente es menor
