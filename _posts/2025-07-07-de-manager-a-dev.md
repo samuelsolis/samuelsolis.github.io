@@ -150,7 +150,7 @@ de eso ya hemos hablado antes.
 Y eso es todo. ¿Tienes pensado volver a ser IC? ¿Tomar caminos de gestión? O, quizá, ¿pasar completamente de ellos de
 momento? 
 
-No hay caminos mejores o peores mi consejo sincero, y llevo en esto mś de 15 años y he pasado por bastantes sitios y puestos...
+No hay caminos mejores o peores. Mi consejo sincero, y llevo en esto mś de 15 años y he pasado por bastantes sitios y puestos...
 Es que estés donde estés el día que tu día a día no sea ilusionante. Vete mirando [Linkedin](https://www.linkedin.com/in/samuelsolisfuentes/) o hablando con [Manfred](https://www.getmanfred.com/).
 
 
