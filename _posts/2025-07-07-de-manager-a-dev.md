@@ -21,7 +21,8 @@ Vamos a ello.
 **Salarialmente está claro.** Y no solo/tanto en mi caso. El nivel de impacto de un desarrollador normalmente es menor
 y eso implica que los rangos salariales tienden a ser más bajos. Eso, además, está muchísimo **más acentuado en España**
 donde **el rol de IC escala mal**. Hay muy pocas empresas **españolas** que rompan los techos de sueldo habituales
-para un dev, por senior que sea. Pocas no es sinónimo de ninguna. Las hay, pero es mucho más complicado conseguirlo en otros tipos con personal al cargo.
+para un dev, por senior que sea. Pocas no es sinónimo de ninguna. Las hay, pero es mucho más fácil conseguirlo en otros 
+tipos de puestos con personal al cargo.
 
 Ahora bien, la pregunta me la hice, desde luego. Antes de dar el cambio y tras hacerlo: ¿es realmente un paso atrás? 
 
