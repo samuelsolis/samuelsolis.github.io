@@ -28,7 +28,7 @@ Ahora bien, la pregunta me la hice, desde luego. Antes de dar el cambio y tras h
 
 Pues dependerá y mucho de los objetivos de cada uno, lo que consigue aportar desde -y no solo desde- el código, 
 y cómo te despiertas cada mañana de cara a sacar tu jornada adelante. Para unos liderar un equipo puede ser un paraíso. 
-Habrá algunos que disfruten tutorizando a los más juniors y haciéndoles crecer a nivel profesional y técnico, y quizá 
+Habrá algunos que disfruten tutorizando a los más juniors y haciéndoles crecer a nivel profesional, y quizá 
 otros que prefieran la soledad de un reto técnico mayúsculo. No creo que unos sean mejor que otros, y **todos acaban 
 siendo necesarios en un momento u otro**. Será un paso hacia atrás o hacia adelante dependiendo de dónde te dirijas.
 
