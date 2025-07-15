@@ -39,7 +39,7 @@ igual termino de carpintero o de electricista, ¡a saber!
 La verdad es que pensaba que iba a tardar más en volver a cogerle el ritmo a ejecutar. Pero no fue así.
 
 Es cierto que _solo_ estuve dos años y medio de manager, pero también que aterricé en un equipo con un stack tecnológico
-diferente del que estaba acostumbrado y con unas cuantas tecnologías (para mi) nuevas. Y la verdad es que **no me costó demasiado
+diferente del que estaba acostumbrado y con unas cuantas herramientas (para mi) nuevas. Y la verdad es que **no me costó demasiado
 volver a ser productivo**.
 
 No tengáis miedo de eso.
@@ -65,9 +65,9 @@ Creo que pasar por esa etapa más de gestión me dio confianza para poder aborda
 ningún problema ni trauma. Que siempre hubo un poco, pero ahora, pues un poco más.
 
 
-# Cosas que he aprendido
+# Lo que he aprendido
 
-O más que cosas que he aprendido, quizá mejor se puede interpretar como cosas que he aprendido **que son clave**. Es decir,
+O más que _lo que aprendido_, quizá mejor se puede interpretar como cosas que he aprendido **que son clave**. Es decir,
 darle a estas habilidades, características o como queráis llamarlo el valor que se merecen; porque son la diferencia
 entre ser un desarrollador normalito o ser uno de un valor realmente alto.
 
@@ -94,7 +94,7 @@ de arreglarlo.
 Y reitero los adjetivos que no están puestos al azar: clara, sencilla y concisa. Sin rodeos, 
 entendibles para cualquiera y sin dar lugar a equívocos.
 
-Por otro lado, fuera del drama de la crisis también es importante comunicar de forma **temprana** y de forma **proactiva**. 
+Por otro lado, fuera del drama de la crisis también es importante comunicar de forma **temprana** y **proactiva**. 
 Esto quiere decir que es clave levantar la mano cuando creas que dispones de información relevante para los demás y hacerlo
 lo antes posible. Si no llegas a una entrega o si vas a acabar mucho antes de tiempo (y, por tanto, necesitarás otra tarea),
 si ves un bug que hay que resolver que nadie ha reportado, o si localizas una posible amenaza que pueda hacer que todo 
@@ -153,7 +153,11 @@ Y eso es todo. ¿Tienes pensado volver a ser IC? ¿Tomar caminos de gestión? O,
 momento? 
 
 No hay caminos mejores o peores. Mi consejo sincero, y llevo en esto mś de 15 años y he pasado por bastantes sitios y puestos...
-Es que estés donde estés el día que tu día a día no sea ilusionante. Vete mirando [Linkedin](https://www.linkedin.com/in/samuelsolisfuentes/) o hablando con [Manfred](https://www.getmanfred.com/).
+Es que estés donde estés si tu día a día no es motivador. Vete mirando [Linkedin](https://www.linkedin.com/in/samuelsolisfuentes/) o hablando con [Manfred](https://www.getmanfred.com/)*.
+
+*Desgraciadamente no me han pagado nada por esta publicidad. Acepto jamones. 
+
+Abrazos a todos.
 
 
 
