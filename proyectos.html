@@ -13,7 +13,7 @@ permalink: /proyectos/
   {%- if has_page > 0 %}{% assign href = p.url | relative_url %}{% assign ext = false %}
   {%- else %}{% assign href = p.links[0].url %}{% assign ext = true %}{% endif %}
   <article class="project">
-    <a href="{{ href }}" class="project-image" tabindex="-1" aria-hidden="true"{% if ext %} target="_blank" rel="noopener"{% endif %}>
+    <a href="{{ href }}" class="project-image{% if p.image_fit == 'contain' %} is-logo{% endif %}" tabindex="-1" aria-hidden="true"{% if ext %} target="_blank" rel="noopener"{% endif %}>
       <img src="{{ p.image | relative_url }}" alt="" loading="lazy">
     </a>
     <p class="project-kind">{{ p.kind }}</p>

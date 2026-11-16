@@ -9,7 +9,7 @@ layout: default
   </header>
 
   <div class="project-body">
-    <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | escape }}" class="project-cover">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | escape }}" class="project-cover{% if page.image_fit == 'contain' %} is-logo{% endif %}">
 
     <div>
       <div class="entry">

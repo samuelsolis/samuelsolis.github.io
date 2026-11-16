@@ -2,8 +2,9 @@
 title: ParaSiempre Fotomatón
 kind: Empresa
 date: 2026-04-01
-image: /images/proyectos/parasiempre-fotomaton.webp
-image_alt: Un grupo de amigos posando con gafas y gorros de atrezo en el fotomatón
+image: /images/proyectos/parasiempre-logo.webp
+image_alt: Logo de ParaSiempre Fotomatón
+image_fit: contain
 summary: >-
   Fotomatones premium y experiencias 360 para bodas, comuniones y eventos de todo
   tipo en Cáceres y Badajoz.

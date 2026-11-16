@@ -353,6 +353,13 @@ time {
     }
 
     &:hover img { filter: brightness(0.92); }
+
+    &.is-logo img {
+      object-fit: contain;
+      padding: 18%;
+      background: #fff;
+      border: 1px solid var(--line);
+    }
   }
 
   h2 {
@@ -390,6 +397,12 @@ time {
 .project-cover {
   width: 100%;
   border-radius: 4px;
+
+  &.is-logo {
+    padding: 12%;
+    background: #fff;
+    border: 1px solid var(--line);
+  }
 }
 
 .project-links-title {
