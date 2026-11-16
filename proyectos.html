@@ -1,0 +1,24 @@
+---
+layout: page
+title: Proyectos
+permalink: /proyectos/
+---
+
+<p class="lead">Cosas que he hecho fuera del trabajo del día a día.</p>
+
+<div class="projects">
+  {% assign proyectos = site.proyectos | sort: "date" | reverse %}
+  {% for p in proyectos %}
+  {%- assign has_page = p.content | strip_html | strip | size -%}
+  {%- if has_page > 0 %}{% assign href = p.url | relative_url %}{% assign ext = false %}
+  {%- else %}{% assign href = p.links[0].url %}{% assign ext = true %}{% endif %}
+  <article class="project">
+    <a href="{{ href }}" class="project-image" tabindex="-1" aria-hidden="true"{% if ext %} target="_blank" rel="noopener"{% endif %}>
+      <img src="{{ p.image | relative_url }}" alt="" loading="lazy">
+    </a>
+    <p class="project-kind">{{ p.kind }}</p>
+    <h2><a href="{{ href }}"{% if ext %} target="_blank" rel="noopener"{% endif %}>{{ p.title }}</a></h2>
+    <p>{{ p.summary }}</p>
+  </article>
+  {% endfor %}
+</div>

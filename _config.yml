@@ -20,10 +20,12 @@ avatar: /images/samuelsolis.jpeg
 nav:
   - title: Blog
     url: /
-  - title: Sobre mí
-    url: /about/
+  - title: Proyectos
+    url: /proyectos/
   - title: En YouTube
     url: /youtube/
+  - title: Sobre mí
+    url: /about/
 
 # Footer links
 footer-links:
@@ -51,6 +53,19 @@ baseurl: ""
 #
 
 permalink: /:title/
+
+# Projects: one Markdown file per project in _proyectos/.
+# Projects with body text get their own page; the rest link straight out.
+collections:
+  proyectos:
+    output: true
+    permalink: /proyectos/:name/
+
+defaults:
+  - scope:
+      type: proyectos
+    values:
+      layout: proyecto
 
 
 # Markdown
