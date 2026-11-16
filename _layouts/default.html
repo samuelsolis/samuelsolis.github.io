@@ -1,60 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
   <head>
-	  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-5Y5SCZMY5X"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5Y5SCZMY5X"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-5Y5SCZMY5X');
+    </script>
 
-  gtag('config', 'G-5Y5SCZMY5X');
-</script>
-
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 
     {% include meta.html %}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="icon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
-	  
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feed.xml">
+    <link rel="icon" href="{{ site.avatar }}">
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+    <header class="site-header">
+      <a href="{{ site.baseurl }}/" class="site-name">{{ site.name }}</a>
+      <nav class="site-nav" aria-label="Principal">
+        {%- for item in site.nav %}{% if item.url %}
+        {%- assign external = item.url | slice: 0, 4 %}
+        <a href="{% if external == 'http' %}{{ item.url }}{% else %}{{ site.baseurl }}{{ item.url }}{% endif %}"
+           {% if item.url == page.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
+        {%- endif %}{% endfor %}
+      </nav>
+    </header>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
+    <main id="main" class="site-main {{ page.layout }}-layout">
       {{ content }}
-    </div>
+    </main>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
+    <footer class="site-footer">
+      <span>© {{ site.time | date: "%Y" }} {{ site.name }}</span>
+      <span class="footer-links">{% include footer-links.html %}</span>
+    </footer>
   </body>
 </html>

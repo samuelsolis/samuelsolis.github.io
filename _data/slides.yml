@@ -1,0 +1,46 @@
+# Talks without a recording, with slides on SlideShare. Newest first by `year`.
+# event (optional): leave empty when unknown.
+- title: "Beyond coding: how management experience made me a better developer"
+  event: Drupal Iberia Cáceres
+  year: 2025
+  url: https://www.slideshare.net/slideshow/beyond-coding-how-management-experience-made-me-a-better-developer/277577426
+- title: De managers y developers
+  event: Extremadura Digital Day Cáceres
+  year: 2023
+  url: https://www.slideshare.net/slideshow/de-managers-y-developers/262712954
+- title: Drupal intro for Symfony developers
+  event: Universidad de Extremadura
+  year: 2020
+  url: https://www.slideshare.net/slideshow/drupal-intro-for-symfony-developers/223527559
+- title: Querying Solr
+  event: Drupal Madrid
+  year: 2019
+  url: https://www.slideshare.net/slideshow/querying-solr/182711763
+- title: Playing with Form API
+  event: Drupal Summer Barcelona
+  year: 2017
+  url: https://www.slideshare.net/slideshow/d8-form-api/77423571
+- title: "Drupal 8 simple page: mi primer proyecto en Drupal 8"
+  event: Drupal Summer Barcelona
+  year: 2016
+  url: https://www.slideshare.net/slideshow/drupal-8-simple-page-mi-primer-proyecto-en-drupal-8/60406414
+- title: Cómo arreglar este desastre
+  event: Codemotion Madrid
+  year: 2015
+  url: https://www.slideshare.net/slideshow/como-arreglar-este-desastre/55608659
+- title: "Drupal & Rails: nuestra experiencia (con Carlos Sánchez)"
+  event: Codemotion Madrid
+  year: 2014
+  url: https://www.slideshare.net/slideshow/drupal-y-rails-nuestra-experiencia/41889614
+- title: Taller de introducción al desarrollo de módulos
+  event: DrupalDay Bilbao
+  year: 2014
+  url: https://www.slideshare.net/slideshow/taller-introduccion-al-desarrollo-de-modulos/41287547
+- title: Más limpio que un jaspe
+  event: DrupalCamp Spain
+  year: 2014
+  url: https://www.slideshare.net/slideshow/mas-limpio-que-un-jaspe-to-pdf/34841614
+- title: Drupal para desarrolladores
+  event: Universidad de Extremadura
+  year: 2013
+  url: https://www.slideshare.net/slideshow/drupal-para-desarrolladores/26645503

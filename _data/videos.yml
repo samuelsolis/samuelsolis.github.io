@@ -1,0 +1,159 @@
+# Videos where I appear. Sorted newest first by `date`.
+# date: event date when known (many recordings were re-uploaded years later).
+# precision (optional): "year" when only the year is known; default shows month and year.
+# thumb (optional): YouTube thumbnail to use instead of hqdefault (hq1, hq2, hq3, maxresdefault).
+
+- id: In3wxuzKvqc
+  thumb: hq2
+  title: El necesario mal del legacy code
+  event: Modern Web Event, UOC
+  kind: Charla
+  minutes: 69
+  date: 2026-05-19
+  description: >-
+    Todo proyecto con recorrido acaba teniendo código heredado. Por qué aparece,
+    cómo convivir con él y cuándo merece la pena reescribir y cuándo no.
+
+- id: iJzRuAtTBYM
+  title: ¿Merece la pena ser manager en tecnología?
+  event: Manfred Stories
+  kind: Conversación
+  minutes: 46
+  date: 2025-08-25
+  description: >-
+    Cómo fue pasar de programar a ser manager en Openbank, por qué volví a ser
+    desarrollador y cómo saber si el rol de manager es para ti.
+
+- id: BAHQPNbF72M
+  title: El necesario mal del legacy code
+  event: Drupal Iberia 2024
+  kind: Charla
+  minutes: 46
+  date: 2024-05-10
+  description: >-
+    La primera versión de esta charla, en Évora: de dónde sale el código legacy
+    y cómo trabajar con él sin que se coma el proyecto.
+
+- id: 8hMrDvvEgZg
+  title: Hábitos y consejos para sobrevivir a un trabajo sedentario
+  event: DrupalCamp Spain 2023
+  kind: Charla
+  minutes: 49
+  date: 2023-09-22
+  description: >-
+    Pasamos el día sentados y el cuerpo lo nota. Hábitos y ejercicios sencillos
+    para que trabajar delante de una pantalla no pase factura.
+
+- id: GSq_Fs5CMJE
+  title: Las tripas de un sistema Solr
+  event: DrupalCamp Spain 2019
+  kind: Charla
+  minutes: 52
+  date: 2019-05-10
+  description: >-
+    Cómo funciona Solr por dentro: indexado, análisis de texto y relevancia,
+    para entender qué pasa cuando un buscador devuelve lo que devuelve.
+
+- id: usjrvNI9888
+  title: Construyendo un motor de recomendaciones con Drupal 8 y Solr
+  event: DrupalDay Cáceres 2017
+  kind: Charla
+  minutes: 47
+  date: 2017-06-01
+  precision: year
+  description: >-
+    El sistema de recomendaciones que montamos en Bodeboca con Drupal 8 y Solr:
+    arquitectura, decisiones y lo que aprendimos por el camino.
+
+- id: Xpf14gdJ8Iw
+  title: Mejora tu código mejorando tu comunicación
+  event: Codemotion Madrid 2016
+  kind: Charla
+  minutes: 47
+  date: 2016-11-19
+  description: >-
+    Por qué una mala comunicación con el cliente empeora tu código, y trucos y
+    estrategias para que un mal cliente no tire por tierra el proyecto.
+
+- id: bACb7i1EXTg
+  title: Entrevista sobre comunicación y código
+  event: Codemotion Madrid 2016
+  kind: Entrevista
+  minutes: 3
+  date: 2016-11-18
+  description: >-
+    Una charla rápida tras mi sesión en Codemotion: qué entiendo por comunicación
+    y por qué es clave para entregar el proyecto que el cliente necesita.
+
+- id: Lv219YFRb_Y
+  title: Custom entities en Drupal 8
+  event: DrupalDay Santiago de Compostela 2016
+  kind: Charla
+  minutes: 36
+  date: 2016-06-01
+  precision: year
+  description: >-
+    Cómo crear y usar entidades propias en Drupal 8, cuándo tienen sentido frente
+    a los tipos de contenido y qué cambia respecto a Drupal 7.
+
+- id: Fs1-BDyNByg
+  title: ¿Por amor al arte? Ventajas del software libre
+  event: T3chFest 2015
+  kind: Charla
+  minutes: 33
+  date: 2015-02-13
+  description: >-
+    Liberar tu código puede parecer regalar tu trabajo. Lo que gana un
+    desarrollador y una empresa al usar software libre y contribuir a él.
+
+- id: 6yyReDctDLM
+  title: ¿Por amor al arte? Ventajas del software libre
+  event: T3chFest 2015
+  kind: Entrevista
+  minutes: 4
+  date: 2015-02-12
+  description: >-
+    Entrevista en T3chFest, cuando trabajaba como desarrollador Drupal en ASPGems,
+    sobre mi charla acerca de las ventajas del software libre.
+
+- id: 0k95r-HTs00
+  thumb: hq2
+  title: Mejorar tu código hablando con el cliente
+  event: DrupalDay Bilbao 2014
+  kind: Charla
+  minutes: 49
+  date: 2014-11-01
+  precision: year
+  description: >-
+    La primera versión de mi charla sobre comunicación: cómo una mala relación
+    con el cliente empeora el código y qué hacer para evitarlo.
+
+- id: mEnyQHOAEBM
+  title: WTF!! Grandes cagadas en proyectos contadas por sus autores
+  event: DrupalCamp Spain 2014
+  kind: Charla compartida
+  minutes: 32
+  date: 2014-05-17
+  description: >-
+    Cinco desarrolladores con años de Drupal a la espalda contamos, sin filtro,
+    los errores más gordos que hemos cometido en proyectos reales.
+
+- id: -aI18i506MM
+  title: Drupal como framework
+  event: PHPMad
+  kind: Charla
+  minutes: 52
+  date: 2014-04-09
+  description: >-
+    Drupal vive entre el CMS y el framework. Por qué tiene sentido verlo como
+    framework y qué ofrece a quien viene de Symfony, Laravel y compañía.
+
+- id: ShQcpAXk3iI
+  title: Arquitectura de la información en Drupal
+  event: DrupalCamp Spain 2013
+  kind: Charla
+  minutes: 41
+  date: 2013-10-26
+  description: >-
+    Cómo pasar de un prototipo a las piezas de Drupal: identificar tipos de
+    contenido, taxonomías, vistas y bloques antes de ponerse a construir.

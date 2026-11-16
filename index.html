@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div class="with-intro">
+  {% include intro.html %}
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+  <section class="posts" aria-label="Últimas entradas">
+    {% for post in site.posts %}
+    <article class="post-summary">
+      {% include date-es.html date=post.date %}
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 40, "…" }}</p>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more" aria-label="Leer «{{ post.title | escape }}»">Leer más</a>
     </article>
-  {% endfor %}
+    {% endfor %}
+  </section>
 </div>

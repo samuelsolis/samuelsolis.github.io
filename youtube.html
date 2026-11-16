@@ -1,0 +1,38 @@
+---
+layout: page
+title: En YouTube
+permalink: /youtube/
+---
+
+<p class="lead">Charlas, entrevistas y conversaciones en las que he participado.</p>
+
+<div class="videos">
+  {% assign videos = site.data.videos | sort: "date" | reverse %}
+  {% for v in videos %}
+  <article class="video">
+    <a href="https://www.youtube.com/watch?v={{ v.id }}" target="_blank" rel="noopener" class="video-thumb" tabindex="-1" aria-hidden="true">
+      <img src="https://i.ytimg.com/vi/{{ v.id }}/{{ v.thumb | default: "hqdefault" }}.jpg" alt="" loading="lazy" width="480" height="360">
+      <span class="video-duration">{{ v.minutes }} min</span>
+    </a>
+    <p class="video-meta">{{ v.kind }} en {{ v.event }}</p>
+    {% assign precision = v.precision | default: "month" %}
+    {% include date-es.html date=v.date precision=precision %}
+    <h2><a href="https://www.youtube.com/watch?v={{ v.id }}" target="_blank" rel="noopener">{{ v.title }}</a></h2>
+    <p>{{ v.description }}</p>
+  </article>
+  {% endfor %}
+</div>
+
+<section class="slides" aria-labelledby="slides-title">
+  <h2 id="slides-title">Charlas sin grabación</h2>
+  <p>He dado muchas más charlas que no se grabaron, aunque suelo compartir las diapositivas. Aquí tienes el listado:</p>
+  <ol class="slides-list">
+    {% for s in site.data.slides %}
+    <li>
+      <span class="slides-year">{{ s.year }}</span>
+      <a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.title }}</a>
+      <span class="slides-event">{{ s.event }}</span>
+    </li>
+    {% endfor %}
+  </ol>
+</section>

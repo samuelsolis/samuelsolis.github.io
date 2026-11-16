@@ -1,0 +1,6 @@
+{%- assign fl = site.footer-links -%}
+{%- if fl.github %}<a href="https://github.com/{{ fl.github }}">GitHub</a>{% endif -%}
+{%- if fl.twitter %}<a href="https://x.com/{{ fl.twitter }}">X</a>{% endif -%}
+{%- if fl.linkedin %}<a href="https://www.linkedin.com/in/{{ fl.linkedin }}">LinkedIn</a>{% endif -%}
+{%- if fl.youtube %}<a href="{{ fl.youtube }}">YouTube</a>{% endif -%}
+{%- if fl.rss %}<a href="{{ site.baseurl }}/feed.xml">RSS</a>{% endif -%}

@@ -5,32 +5,31 @@
 # Name of your site (displayed in the header)
 name: Samuel Solís
 
-# Short bio or description (displayed in the header)
-description: Desarrollador web / Drupal
+# Short description (used in <title> and meta tags)
+description: Desarrollador de software
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# Short presentation shown next to the photo on the home page
+bio: >-
+  Desarrollador de software, persona de producto, emprendedor sin pretensiones,
+  profesor a tiempo parcial y extremeño a tiempo completo.
+
+# Profile picture
 avatar: /images/samuelsolis.jpeg
 
-#
-# Flags below are optional
-#
+# Main menu. Items without url are not shown.
+nav:
+  - title: Blog
+    url: /
+  - title: Sobre mí
+    url: /about/
+  - title: En YouTube
+    url: /youtube/
 
-# Includes an icon in the footer for each username you enter
+# Footer links
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
   github: samuelsolis
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
   twitter: estoyausente
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
+  rss: true
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
