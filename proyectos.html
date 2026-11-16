@@ -4,21 +4,26 @@ title: Proyectos
 permalink: /proyectos/
 ---
 
-<p class="lead">Cosas que he hecho fuera del trabajo del día a día.</p>
+<p class="lead">Líos en los que me meto y no debería meterme.</p>
 
 <div class="projects">
-  {% assign proyectos = site.proyectos | sort: "date" | reverse %}
+  {% comment %} Projects with `order` go first (ascending); the rest by date, newest first. {% endcomment %}
+  {% assign pinned = site.proyectos | where_exp: "p", "p.order" | sort: "order" %}
+  {% assign others = site.proyectos | where_exp: "p", "p.order == nil" | sort: "date" | reverse %}
+  {% assign proyectos = pinned | concat: others %}
   {% for p in proyectos %}
   {%- assign has_page = p.content | strip_html | strip | size -%}
   {%- if has_page > 0 %}{% assign href = p.url | relative_url %}{% assign ext = false %}
   {%- else %}{% assign href = p.links[0].url %}{% assign ext = true %}{% endif %}
   <article class="project">
-    <a href="{{ href }}" class="project-image{% if p.image_fit == 'contain' %} is-logo{% endif %}" tabindex="-1" aria-hidden="true"{% if ext %} target="_blank" rel="noopener"{% endif %}>
-      <img src="{{ p.image | relative_url }}" alt="" loading="lazy">
+    <a href="{{ href }}" class="project-image{% if p.image_fit %} is-{{ p.image_fit }}{% endif %}{% unless p.image %} is-empty{% endunless %}" tabindex="-1" aria-hidden="true"{% if ext %} target="_blank" rel="noopener"{% endif %}>
+      {% if p.image %}<img src="{{ p.image | relative_url }}" alt="" loading="lazy"{% if p.image_position %} style="object-position: {{ p.image_position }}"{% endif %}>{% else %}<span>{{ p.title }}</span>{% endif %}
+      {% if p.role %}<span class="project-role">{{ p.role }}</span>{% endif %}
     </a>
-    <p class="project-kind">{{ p.kind }}</p>
+    <p class="project-kind">{{ p.kind }}, {{ p.date | date: "%Y" }}</p>
     <h2><a href="{{ href }}"{% if ext %} target="_blank" rel="noopener"{% endif %}>{{ p.title }}</a></h2>
     <p>{{ p.summary }}</p>
   </article>
   {% endfor %}
 </div>
+

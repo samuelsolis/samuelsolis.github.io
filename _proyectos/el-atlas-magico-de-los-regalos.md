@@ -1,8 +1,11 @@
 ---
 title: El Atlas mágico de los regalos
 kind: Cuento infantil
+role: Autor
+order: 2
 date: 2026-02-02
 image: /images/proyectos/atlas-magico-de-los-regalos.webp
+image_fit: contain
 image_alt: Portada de «El Atlas mágico de los regalos», con Sofía leyendo un atlas rodeada de cartas
 summary: >-
   Mi primer cuento para niños, ilustrado por Paulo Habermann y publicado por

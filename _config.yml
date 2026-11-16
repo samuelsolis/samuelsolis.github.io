@@ -56,6 +56,7 @@ permalink: /:title/
 
 # Projects: one Markdown file per project in _proyectos/.
 # Projects with body text get their own page; the rest link straight out.
+# `order` (optional) pins a project to the top; the rest are sorted by date.
 collections:
   proyectos:
     output: true
