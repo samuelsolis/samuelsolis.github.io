@@ -7,7 +7,8 @@ image_alt: Logo de ParaSiempre Fotomatón
 image_fit: contain
 summary: >-
   Fotomatones premium y experiencias 360 para bodas, comuniones y eventos de todo
-  tipo en Cáceres y Badajoz.
+  tipo en Cáceres y Badajoz. Mi apuesta por el negocio local y la gestión integral
+  de una empresa apoyándome en la Inteligencia Artificial.
 links:
   - label: Fotomatón para bodas y eventos en Extremadura
     url: https://www.parasiemprefotomaton.es/
