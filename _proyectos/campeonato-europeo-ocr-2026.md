@@ -16,4 +16,4 @@ Clasificarse para el Campeonato Europeo de OCR que se celebraba en 2026 en Irún
 
 Se dio muchísimo mejor de lo esperado: pasé casi todos, llegué a meta con pulsera (es decir, sin que me eliminasen) y terminé en un más que digno puesto 75 de mi categoría. No es un puesto muy alto, pero para mí es una barbaridad, compartiendo carrera con lo mejor de Europa.
 
-Fui con un grupo de compañeros del mundo OCR y con algunos de nuestros familiares y amigo; los ánimos se notan muchísimo en cada obstáculo. 
+Fui con un grupo de compañeros del mundo OCR y con algunos de nuestros familiares y amigos; los ánimos se notan muchísimo en cada obstáculo. 

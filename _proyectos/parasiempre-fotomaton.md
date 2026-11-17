@@ -15,7 +15,7 @@ links:
   - label: Fotomatón para bodas y eventos en Extremadura
     url: https://www.parasiemprefotomaton.es/
 ---
-Siempre me gustaron las fotos. No la fotografía: las fotos. Y siempre quise montar algo medio serio a nivel empresarial. Cuando me despidieron de Marketgoo (por motivos ajenos a mi, ¡que conste!) decidí que quería montar algo y que no estuviese demasiado ligado a Internet ni el desarrollo de software, sino que mis habilidades digitales fuesen solo una herramienta de diferenciación. Así nación Parasiempre fotomatón.
+Siempre me gustaron las fotos. No la fotografía: las fotos. Y siempre quise montar algo medio serio a nivel empresarial. Cuando me despidieron de Marketgoo (por motivos ajenos a mi, ¡que conste!) decidí que quería montar algo y que no estuviese demasiado ligado a Internet ni el desarrollo de software, sino que mis habilidades digitales fuesen solo una herramienta de diferenciación. Así nació Parasiempre fotomatón.
 
 
 [ParaSiempre](https://www.parasiemprefotomaton.es/) es mi empresa de fotomatones para  
