@@ -23,6 +23,10 @@ links:
   - label: Todos tus libros
     url: https://www.todostuslibros.com/libros/el-atlas-magico-de-los-regalos_978-84-1060-949-5
 ---
+Pocos conocían mi faceta de escritor. O mi gusto por escribir, mejor dicho, hasta que un día llegaron los primeros ejemplares de *El Atlas Mágico de los Regalos* a casa. No es que el cuento para niños sea mi género fetiche pero salió así por citcunstancias de la vida y editoriales, y mi primera publicación tiene como público objetivo los más pequeños.
+
+Os dejo la sinopsis:
+
 
 Sofía ha descubierto que en otras partes del mundo no llegan los Reyes Magos, sino
 un montón de seres mágicos distintos según donde vivas: la bruja Befana, la Cabra
@@ -31,6 +35,8 @@ conseguir muchos más regalos, pero no es tan fácil: le espera una investigaci�
 la que conocerá otras culturas de una forma muy divertida.
 
 Un cuento sobre magia, pero todavía más sobre tolerancia, respeto y multiculturalidad.
+
+
 
 Álbum ilustrado de tapa dura, 40 páginas. Ilustraciones de Paulo Habermann.
 Publicado por Apuleyo Ediciones en febrero de 2026.

@@ -9,15 +9,11 @@ summary: >-
   Mi participación en el Campeonato Europeo de carreras de obstáculos en Irún:
   llegué para disfrutarlo y terminé el 75.º de mi categoría.
 ---
+Descubrí en las carreras de obstáculos (OCR *- Obstacle course race*) un deporte que me llena. Es completo, divertido y un reto tremendo para el cuerpo.
 
-Llegar al Campeonato Europeo de OCR, en Irún, ya era un exitazo de temporada. Fui a
-disfrutarlo y, con suerte, sobrevivir, asumiendo que lo más probable era terminar
-descalificado por fallar en más de dos obstáculos.
 
-Se dio muchísimo mejor de lo esperado: pasé casi todos, llegué a meta con pulsera y
-terminé en un más que digno puesto 75 de mi categoría. No es un puesto alto, pero
-para mí es una barbaridad, compartiendo carrera con lo mejor de Europa.
+Clasificarse para el Campeonato Europeo de OCR que se celebraba en 2026 en Irún, ya era el exitazo de la temporada. Fui a disfrutarlo y, con suerte, sobrevivir, asumiendo que lo más probable era terminar descalificado por fallar en más de dos obstáculos.
 
-Fui con un grupo de compañeros del mundo OCR y con muchos familiares y amigos
-animando, y los ánimos se notan muchísimo en cada obstáculo. Ahora toca pensar en el
-reto del año que viene, aunque subir más ya está complicado.
+Se dio muchísimo mejor de lo esperado: pasé casi todos, llegué a meta con pulsera (es decir, sin que me eliminasen) y terminé en un más que digno puesto 75 de mi categoría. No es un puesto muy alto, pero para mí es una barbaridad, compartiendo carrera con lo mejor de Europa.
+
+Fui con un grupo de compañeros del mundo OCR y con algunos de nuestros familiares y amigo; los ánimos se notan muchísimo en cada obstáculo. 

@@ -13,16 +13,13 @@ links:
   - label: Noticia del Ayuntamiento de Malpartida
     url: https://www.malpartidadecaceres.es/santuario-race-llega-a-los-barruecos-el-27-de-septiembre-con-una-espectacular-carrera-de-mas-de-40-obstaculos/
 ---
+La Santuario Race es una carrera de obstáculos (OCR) puntuable para el circuito nacional OCRA España. 
 
-La Santuario Race es una carrera de obstáculos (OCR) puntuable para el circuito nacional
-OCRA España. Su tercera edición se celebró el 27 de septiembre de 2026 y, por primera
-vez, salió de la plaza de la Nora de Malpartida de Cáceres para recorrer el paraje de
-Los Barruecos: unos 10 kilómetros y más de 40 obstáculos de arrastre, carga, salto,
-suspensión y equilibrio.
+Como llevo unos años muy volcado en el mundo de las carreras de obstáculos **por supuesto** que tenía que enmarronarme en la organización de la que hay en Cáceres (la única del circuito Nacional en +300km a la redonda). Su tercera edición se celebró el 27 de septiembre de 2026 y, por primera vez, fue en Malpartida de Cáceres. Pudimos recorrer el paraje de Los Barruecos: unos 10 kilómetros y más de 40 obstáculos de arrastre, carga, salto, suspensión y equilibrio.
 
-Hubo sitio para todos: la tanda Élite, que puntuaba para el campeonato europeo, las
-categorías populares individual, por parejas y por equipos, y una carrera *Kids* con un
+Hubo sitio para todos: tandas competitivas, que puntuaba para el campeonato europeo, las categorías populares individual, por parejas y por equipos, y una carrera *Kids* con un
 recorrido adaptado para los más pequeños.
 
-La organiza la Asociación Santuario OCR Team, de la que soy secretario y uno de los
-organizadores, con la colaboración del Ayuntamiento de Malpartida de Cáceres.
+--
+
+Yo la corrí, por cierto, en la tregua que me dieron los paracetamoles y drogas varias, con fiebre antes y fiebre después. Un despropósito poco recomendable. Acabé y aun no sé como. Aunque eso sí, descalificado porque no pude pasar los obstáculos. Una pena siendo *mi* carrera, pero un logro teniendo en cuenta que las 24h posteriores las pasé intentando no morirme.

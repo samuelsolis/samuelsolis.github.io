@@ -19,15 +19,9 @@ links:
   - label: Fotos en Flickr
     url: https://www.flickr.com/groups/2351509@N20/
 ---
+La Drupalcamp es el evento más importante de Drupal en España, con entre 200 y 300 participantes durante 2 días de charlas. Después de Barcelona (2010), Sevilla (2011) y Madrid (2012), un grupo de voluntarios nos propusimos traer la cuarta DrupalCamp Spain a Cáceres, y la organizamos. Se celebró el 26 y 27 de octubre de 2013 en el Complejo Cultural San Francisco, un antiguo convento en pleno casco histórico.
 
-Después de Barcelona (2010), Sevilla (2011) y Madrid (2012), un grupo de voluntarios
-nos propusimos traer la cuarta DrupalCamp Spain a Cáceres, y la organizamos. Se celebró el 26 y 27 de octubre de 2013 en el Complejo Cultural San
-Francisco, un antiguo convento en pleno casco histórico.
-
-Fue un evento sin ánimo de lucro, hecho por voluntarios y sostenido por patrocinadores:
-dos días de charlas y talleres para desarrolladores, diseñadores, usuarios y empresas,
-con una app propia para seguir la agenda y una fiesta de networking el sábado por la
-noche a unos pasos de la Ciudad Monumental.
+Fue un evento sin ánimo de lucro, hecho por voluntarios y sostenido por patrocinadores, y una de mis primeras grandes contribuciones a esta maravillosa comunidad.
 
 Además de organizarla, di la charla
 [«Arquitectura de la información en Drupal»](/youtube/).
